@@ -16,3 +16,12 @@ This is a simple weather application built using **React** and **OpenWeatherMap 
 - **Vite** (Bundler)
 - **CSS** for styling
 - **Netlify** (For deployment)
+
+## Screenshots 📸
+![Weather App](https://github.com/user-attachments/assets/f30c6e32-f005-403d-9d79-6917913ca5af)
+
+
+
+## Live Demo 🌐
+
+Check out the live demo here: [Weather App on Netlify](https://sanjoshweatherapp.netlify.app/)
